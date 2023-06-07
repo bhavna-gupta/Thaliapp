@@ -1,0 +1,16 @@
+.cart-icon {
+    position: relative;
+}
+.cart-count{
+    min-width: 20px;
+    text-align: center;
+    background: #eeebf0;
+    padding: 2.5px;
+    position: absolute;
+    top: -5px;
+    right: -12px;
+    font-size: 15px;
+    line-height: 1;
+    border-radius: 10px;
+}
+        
